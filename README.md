@@ -48,9 +48,3 @@
 - Оптимизация гиперпараметров с помощью Optuna.
 - Тестирование других архитектур (DeBERTa, ELECTRA).
 - Аугментация данных (Back Translation, GPT).
-
-## Установка и запуск
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/yourusername/toxic_comments_bert.git
-   cd toxic-comments-bert
